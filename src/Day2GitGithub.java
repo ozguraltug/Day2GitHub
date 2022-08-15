@@ -20,6 +20,8 @@ NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim 
 
 */
    public static void main(String[] args) {
-       System.out.println("GitHub ı da ogrendim");
+       System.out.println("GitHub ı da ogrendik");
+       System.out.println("Branch ı da ogrendik");
    }
+
 }
